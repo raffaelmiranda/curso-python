@@ -24,13 +24,3 @@ print(16 % 8 == 0)
 print(10 % 2 == 0)
 print(15 % 2 == 0)
 print(16 % 2 == 0)
-
-
-operacao1 = 5*3+10
-print(operacao1)
-
-operacao2 = 10+2/3
-print(operacao2)
-
-operacao3 = 12+4-(10/2)
-print(operacao3)
